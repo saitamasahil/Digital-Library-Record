@@ -17,7 +17,7 @@ CREATE TABLE Book1 (
 );
 SHOW TABLES;
 SELECT*FROM Book1;
-INSERT INTO Book1 VALUES ('112', 'A Take of Two Cities', 'Charles Dickens', '2021-10-03', '1', 'S009');
+INSERT INTO Book1 VALUES ('112', 'A Tale of Two Cities', 'Charles Dickens', '2021-10-03', '1', 'S009');
 INSERT INTO Book1 VALUES ('201', 'David Copperfield', 'Charles Dickens', '2022-10-03', '1', 'S001');
 INSERT INTO Book1 VALUES ('205', 'Oliver Twist', 'Charles Dickens', '2021-01-03', '4', 'S011');
 INSERT INTO Book1 VALUES ('102', 'Robinson Crusoe', 'Daniel Defoe', '2021-12-03', '3', 'S002');
