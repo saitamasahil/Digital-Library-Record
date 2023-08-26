@@ -23,8 +23,8 @@ INSERT INTO Book1 VALUES ('205', 'Oliver Twist', 'Charles Dickens', '2021-01-03'
 INSERT INTO Book1 VALUES ('102', 'Robinson Crusoe', 'Daniel Defoe', '2021-12-03', '3', 'S002');
 INSERT INTO Book1 VALUES ('121', 'The Hobbit', 'J.R.R. Tolkien', '2021-11-23', '1', 'S008');
 INSERT INTO Book1 VALUES ('109', 'Malgudi Days', 'R.K. Narayan', '2021-10-10', '4', 'S027');
-INSERT INTO Book1 VALUES ('176', 'The Adventures of Sherlock Holmes', 'Sir Arthur Conan Doyle', '2021-10-03', '2', 'S015');
-INSERT INTO Book1 VALUES ('199', 'The Hound of the Baskervilles', 'Sir Arthur Conan Doyle', '2021-11-13', '3', 'S025');
+INSERT INTO Book1 VALUES ('176', 'The Adventures of Sherlock Holmes', 'Conan Doyle', '2021-10-03', '2', 'S015');
+INSERT INTO Book1 VALUES ('199', 'The Hound of the Baskervilles', 'Conan Doyle', '2021-11-13', '3', 'S025');
 SELECT*FROM Book1;
 ```
 
