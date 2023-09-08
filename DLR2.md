@@ -1,3 +1,6 @@
+# Digital Library Record - II
+# | Explanation & Understanding of Operators
+
 To show existing table we created in previous unit from a database use the following command:
 
 ```sh
@@ -40,6 +43,13 @@ SELECT*FROM Book1 WHERE Author='Charles Dickens' AND Title='Oliver Twist';
 
 
 
+
+
+
+
+
+
+
 ```
 
 ## OR Operator Example
@@ -58,6 +68,8 @@ SELECT*FROM Book1 WHERE Author='Charles Dickens' OR Title='Malgudi Days';
 
 
 
+
+
 ```
 
 ## IN Operator Example
@@ -68,6 +80,8 @@ SELECT*FROM Book1 WHERE Book_ID IN ('201', '205');
 
 ### Output
 ```sh
+
+
 
 
 
